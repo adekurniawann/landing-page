@@ -246,6 +246,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+  width: 100%;
   padding: 50px 0;
   background: linear-gradient(to right, #41cbb9 0%, #4aa23b 50%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -266,6 +267,7 @@ header .intro-text {
 /* About Section */
 #about {
   background: #b5e5d1;
+  width: 100%;
   padding: 100px 0;
   color: #111010;
 }
@@ -465,7 +467,7 @@ header .intro-text {
 }
 #team .team-img {
   width: 240px;
-}
+} 
 #team .thumbnail {
   background: transparent;
   border: 0;
